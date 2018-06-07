@@ -1,0 +1,7 @@
+1528337912835	geckodriver	INFO	geckodriver 0.18.0
+1528337912840	geckodriver	INFO	Listening on 127.0.0.1:64085
+1528337914923	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1528337916637	Marionette	INFO	Listening on port 64091
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1528337918979	Marionette	INFO	startBrowser cdbc85fc-d140-4656-83dc-7855bf6b6b8f
